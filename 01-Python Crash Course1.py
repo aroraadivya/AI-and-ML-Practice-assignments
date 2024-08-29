@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# ___
-# 
 # <a href='http://www.pieriandata.com'> <img src='../Pierian_Data_Logo.png' /></a>
 # ___
 # # Python Crash Course
