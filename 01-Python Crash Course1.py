@@ -27,10 +27,8 @@
 # * lambda expressions
 # * map and filter
 # * methods
-# ____
 
 # ## Data types
-# 
 # ### Numbers
 
 # In[6]:
